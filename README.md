@@ -1,6 +1,6 @@
 This is a beginner tutorial of Travis CI for Node projects.
 
-[![Build Status](https://travis-ci.org/michaelliao/openweixin.svg?branch=master)](https://travis-ci.org/michaelliao/openweixin)
+[![Build Status](https://travis-ci.org/michaelliao/openweixin.svg?branch=master)](https://travis-ci.org/Erin-mm/travis-ci-demo/jobs/386478121)
 ## How to use
 
 **Step 1**
